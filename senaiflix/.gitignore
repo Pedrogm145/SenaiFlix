@@ -25,3 +25,6 @@ dist-ssr
 
 #env apiKey
 key.env
+
+#Caminho do Key.js
+src/config/key.js
