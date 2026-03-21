@@ -27,4 +27,4 @@ dist-ssr
 key.env
 
 #Caminho do Key.js
-src/config/key.js
+#src/config/key.js
