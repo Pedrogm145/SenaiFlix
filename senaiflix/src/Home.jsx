@@ -1,4 +1,4 @@
-import { Container, MovieList, Movie, SearchBar } from './config/style'
+import { Container, MovieList, Movie, SearchBar } from './style'
 import { APIKEY } from './config/key'
 import { useState, useEffect } from 'react'
 import { Link, useLocation } from 'react-router-dom'
